@@ -20,7 +20,7 @@ An analytical project that dives deep into statistical analysis with Python prog
 [https://github.com/Navya334/Ham_Spam_Detection.git]
 
 ## 🔗 Links
-- [LinkedIn](www.linkedin.com/in/navya-vadlamudi)
+- [LinkedIn](https://www.linkedin.com/in/navya-vadlamudi/)
 - [Email](vadlamudinavya19@gmail.com)
 
 <!---
