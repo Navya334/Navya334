@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 ## 📊 Featured Projects
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 ### Project 1: Data Science - Hate Speech Detection Using the Machine Learning 
-A detailed exploration of tweets data visualized comprehensively using Python [](#)
+A detailed exploration of tweets data visualized comprehensively using Python [https://github.com/Navya334/Ham_Spam_Detection.git](#)
 ### Project 2: Data Scince - Spam(SMS) Detection using Machine Learning
 An analytical project that dives deep into statistical analysis with Python programming. [](#)
 
