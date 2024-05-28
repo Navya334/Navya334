@@ -14,10 +14,13 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 ## 📊 Featured Projects
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 ### Project 1: Data Science - Hate Speech Detection Using the Machine Learning 
-A detailed exploration of tweets data visualized comprehensively using Python [https://github.com/Navya334/Hate_Speech_Detection.git]
+A detailed exploration of tweets data visualized comprehensively using Python 
+[https://github.com/Navya334/Hate_Speech_Detection.git]
 ### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
 An analytical project that dives deep into statistical analysis with Python programming.
 [https://github.com/Navya334/Ham_Spam_Detection.git]
+### Project 3: Data Science - Credit Exploratory Data Analysis using Machine Learning
+Perform detailed analysis of credit data to uncover hidden patterns, relationships, and insights that can help in credit risk assessment.
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/navya-vadlamudi/)
