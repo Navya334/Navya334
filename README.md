@@ -17,7 +17,7 @@ Below are some projects I've worked on. Feel free to check them out and suggest 
 A detailed exploration of tweets data visualized comprehensively using Python [https://github.com/Navya334/Hate_Speech_Detection.git]
 ### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
 An analytical project that dives deep into statistical analysis with Python programming.
-[](#)
+[https://github.com/Navya334/Ham_Spam_Detection.git]
 
 ## 🔗 Links
 - [LinkedIn](www.linkedin.com/in/navya-vadlamudi)
