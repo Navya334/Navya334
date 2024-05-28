@@ -24,6 +24,7 @@ Perform detailed analysis of credit data to uncover hidden patterns, relationshi
 [https://github.com/Navya334/Credit_EDA_Project.git] 
 ### Project 4: Data Science - YouTube Adview Prediction
 This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.
+[https://github.com/Navya334/Youtube_addview_prediction.git]
 
 
 ## 🔗 Links
