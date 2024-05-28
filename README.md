@@ -21,7 +21,7 @@ An analytical project that dives deep into statistical analysis with Python prog
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/navya-vadlamudi/)
-- [Email](vadlamudinavya19@gmail.com/)
+- [Email](vadlamudinavya19@gmail.com)
 
 <!---
 This is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
