@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Navya Vadlamudi
-Welcome to my GitHub profile! I specialize in data analytics and am passionate about extracting meaningful insights from data.
 ## 🌟 About Me
-- 👀 I’m deeply interested in the field of Data Science, with a particular focus on data analytics.
-- 🌱 I’m currently enhancing my skills in *Data Analytics* and *Data Visualization* using various business intelligence tools.
+
+# 👋 Hi, I'm Navya Vadlamudi
+I specialize in data analytics and am passionate about extracting meaningful insights from data.I’m deeply interested in the field of Data Science, with a particular focus on data analytics.I’m currently enhancing my skills in *Data Analytics* and *Data Visualization* using various business intelligence tools.
+
 ## 🚀 What I'm Looking For
+
 - 💞 I’m looking to collaborate on projects involving data analytics and visualization, where I can contribute my skills and also learn from the community.
 ## 📬 How to Reach Me
 - 📫 You can reach me by [email here](vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/navya-vadlamudi).
