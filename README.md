@@ -12,14 +12,18 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 ## 📊 Machine Learning, Python Projects
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 
-[🛡️🔎 Hate Speech Detection Using the Machine Learning](https://github.com/Navya334/Hate_Speech_Detection.git) 
+[🛡️Hate Speech Detection Using the Machine Learning](https://github.com/Navya334/Hate_Speech_Detection.git) 
+
 A detailed exploration of tweets data visualized comprehensively using Python 
-### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
+
+[💬Spam(SMS) Detection using Machine Learning](https://github.com/Navya334/Ham_Spam_Detection.git)
+
 An analytical project that dives deep into statistical analysis with Python programming.
-[https://github.com/Navya334/Ham_Spam_Detection.git]
-### Project 3: Data Science - YouTube Adview Prediction
+
+[📈 YouTube Adview Prediction](https://github.com/Navya334/Youtube_addview_prediction.git)
+
 This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.
-[https://github.com/Navya334/Youtube_addview_prediction.git]
+
 
 
 ## 🔗 Links
