@@ -35,7 +35,7 @@ This project tells the youtube adview predictions To build a machine learning re
 
 Created a Power BI HR Analytics Dashboard to track employee data and identify retention drivers, enabling HR teams to implement data-driven workforce strategies
 
-[Credit Exploratory Data Analysis using Machine Learning](https://github.com/Navya334/Credit_EDA_Project.git]
+[Credit Exploratory Data Analysis using Machine Learning](https://github.com/Navya334/Credit_EDA_Project.git)
 
 Perform detailed analysis of credit data to uncover hidden patterns, relationships, and insights that can help in credit risk assessment using machine learning and python.
 
