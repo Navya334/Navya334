@@ -19,10 +19,7 @@ A detailed exploration of tweets data visualized comprehensively using Python
 ### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
 An analytical project that dives deep into statistical analysis with Python programming.
 [https://github.com/Navya334/Ham_Spam_Detection.git]
-### Project 3: Data Science - Credit Exploratory Data Analysis using Machine Learning
-Perform detailed analysis of credit data to uncover hidden patterns, relationships, and insights that can help in credit risk assessment.
-[https://github.com/Navya334/Credit_EDA_Project.git] 
-### Project 4: Data Science - YouTube Adview Prediction
+### Project 3: Data Science - YouTube Adview Prediction
 This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.
 [https://github.com/Navya334/Youtube_addview_prediction.git]
 
