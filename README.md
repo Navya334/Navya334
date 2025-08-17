@@ -1,7 +1,7 @@
 ## 🌟 About Me
 
 # 👋 Hi, I'm Navya Vadlamudi
-I specialize in data analytics and am passionate about extracting meaningful insights from data.I’m deeply interested in the field of Data Science, with a particular focus on data analytics.I’m currently enhancing my skills in *Data Analytics* and *Data Visualization* using various business intelligence tools.
+I am passionate about extracting meaningful insights from data and highly motivated by the field of *data science* and *analytics*. Currently, I am enhancing my *data visualization* skills with various business intelligence tools while exploring advanced areas of *machine learning* and applied analytics to solve real-world problems.
 
 ## 🚀 What I'm Looking For
 
