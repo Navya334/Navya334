@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Navya334
+# 👋 Hi, I'm Navya Vadlamudi
 Welcome to my GitHub profile! I specialize in data analytics and am passionate about extracting meaningful insights from data.
 ## 🌟 About Me
 - 👀 I’m deeply interested in the field of Data Science, with a particular focus on data analytics.
@@ -6,7 +6,8 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 ## 🚀 What I'm Looking For
 - 💞 I’m looking to collaborate on projects involving data analytics and visualization, where I can contribute my skills and also learn from the community.
 ## 📬 How to Reach Me
-- 📫 You can reach me by [email here](vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/navya-vadlamudi/).
+- 📫 You can reach me by [email here](vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/navya-vadlamudi).
+  
 ## Problem Solving , Coding Practice
 
 [Hacker Rank](http://hackerrank.com/profile/vadlamudinavya19)
@@ -29,6 +30,8 @@ An analytical project that dives deep into statistical analysis with Python prog
 This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.
 
 ## Tableau, Power Bi Projects
+
+{HR Analytical Dashboard](https://github.com/Navya334/HR-Dashboard)
 
 <!---
 This is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
