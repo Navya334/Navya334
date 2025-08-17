@@ -9,7 +9,7 @@ I really enjoy data science and analytics because I like finding useful informat
 
 ## 📬 How to Reach Me
 
-- 📫 You can reach me by [email here vadlamudinavya19@gmail.com](mailto:vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/navya-vadlamudi).
+- 📫 You can reach me by [📩vadlamudinavya19@gmail.com](mailto:vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/navya-vadlamudi).
   
 ## Problem Solving , Coding Practice
 
