@@ -7,8 +7,12 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 - 💞 I’m looking to collaborate on projects involving data analytics and visualization, where I can contribute my skills and also learn from the community.
 ## 📬 How to Reach Me
 - 📫 You can reach me by [email here](vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/navya-vadlamudi/).
-## 😄 Pronouns
-- She/Her
+## Problem Solving , Coding Practice
+
+[Hacker Rank](http://hackerrank.com/profile/vadlamudinavya19)
+
+I practice coding challenges on HackerRank using Python and SQL to improve my programming and problem-solving abilities.
+
 ## 📊 Machine Learning, Python Projects
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 
@@ -24,11 +28,7 @@ An analytical project that dives deep into statistical analysis with Python prog
 
 This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.
 
-
-
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/navya-vadlamudi/)
-- [Email](vadlamudinavya19@gmail.com)
+## Tableau, Power Bi Projects
 
 <!---
 This is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
