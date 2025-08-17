@@ -9,13 +9,11 @@ Welcome to my GitHub profile! I specialize in data analytics and am passionate a
 - 📫 You can reach me by [email here](vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/navya-vadlamudi/).
 ## 😄 Pronouns
 - She/Her
-## ⚡ Fun Fact
-- I love to explore new tools and technologies that can turn data into compelling stories.
-## 📊 Featured Projects
+## 📊 Machine Learning, Python Projects
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 ### Project 1: Data Science - Hate Speech Detection Using the Machine Learning 
 A detailed exploration of tweets data visualized comprehensively using Python 
-[https://github.com/Navya334/Hate_Speech_Detection.git]
+[Hate Speech Detection](https://github.com/Navya334/Hate_Speech_Detection.git)
 ### Project 2: Data Science - Spam(SMS) Detection using Machine Learning
 An analytical project that dives deep into statistical analysis with Python programming.
 [https://github.com/Navya334/Ham_Spam_Detection.git]
