@@ -5,8 +5,8 @@ I really enjoy data science and analytics because I like finding useful informat
 
 ## 🚀 What I'm Looking For
 
-- 💞I want to work with others on data science and visualization projects so I can use my skills and learn from the community.
-- 
+- 💞I want to work with others on * data science * and * visualization * projects so I can use my skills and learn from the community.
+
 ## 📬 How to Reach Me
 - 📫 You can reach me by [email here](vadlamudinavya19@gmail.com) or connect with me on [LinkedIn](http://linkedin.com/in/navya-vadlamudi).
   
