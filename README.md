@@ -31,7 +31,7 @@ This project tells the youtube adview predictions To build a machine learning re
 
 ## Tableau, Power Bi Projects
 
-{HR Analytical Dashboard](https://github.com/Navya334/HR-Dashboard)
+[HR Analytical Dashboard](https://github.com/Navya334/HR-Dashboard)
 
 <!---
 This is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
