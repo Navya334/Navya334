@@ -24,7 +24,7 @@ Below are some projects I've worked on. Feel free to check them out and suggest 
 
 A machine learning-based project that analyzes tweet data to classify text into **Hate Speech, Offensive Language, and Non-Hate Speech** using Python, NLP, NLTK, and TF-IDF techniques.
 
-[🩺 Smart Diagnosis of Stomach Diseases Using Machine Learning](https://stomach-disease-predictor-app-sxavzdehjmy3d3ag9tkwld.streamlit.app/)
+[🩺 Smart Diagnosis of Stomach Diseases](https://stomach-disease-predictor-app-sxavzdehjmy3d3ag9tkwld.streamlit.app/)
 
 A machine learning-based healthcare project that predicts stomach diseases based on user-reported symptoms using **Python, Random Forest, and Scikit-learn**, along with a doctor recommendation feature to help users find suitable doctors for treatment.
 
