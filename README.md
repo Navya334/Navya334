@@ -1,7 +1,7 @@
 ## 🌟 About Me
 
 # 👋 Hi, I'm Navya Vadlamudi
-I'm a Computer Science (Data Science) graduate with an interest in Data Science, Artificial Intelligence, and Machine Learning. I enjoy working with Python, analyzing data, building machine learning models, and developing practical applications. I'm continuously learning and improving my skills in Python, SQL, Data Analytics, Machine Learning, and Generative AI.
+I'm a Computer Science (Data Science) graduate with an interest in Data Science, Artificial Intelligence, and Machine Learning. I enjoy working with Python, analyzing data, building machine learning models, and developing practical applications. I'm continuously learning and improving my skills in Python, SQL, Machine Learning, and Generative AI.
 
 
 ## 🚀 What I'm Looking For
