@@ -24,13 +24,10 @@ Below are some projects I've worked on. Feel free to check them out and suggest 
 
 A detailed exploration of tweets data visualized comprehensively using Python 
 
-[💬Spam(SMS) Detection using Machine Learning](https://github.com/Navya334/Ham_Spam_Detection.git)
+[💬Spam(SMS) Detection](https://github.com/Navya334/Ham_Spam_Detection.git)
 
 An analytical project that dives deep into statistical analysis with Python programming.
 
-[📈 YouTube Adview Prediction](https://github.com/Navya334/Youtube_addview_prediction.git)
-
-This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.
 
 
 
