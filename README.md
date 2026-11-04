@@ -1,11 +1,12 @@
 ## 🌟 About Me
 
 # 👋 Hi, I'm Navya Vadlamudi
-I really enjoy data science and analytics because I like finding useful information in data.   I'm using different business intelligence tools to get better at visualizing data, and I'm also looking into more advanced areas of machine learning and applied analytics to find ways to solve problems in the real world.
+I'm a Computer Science (Data Science) graduate with an interest in Data Science, Artificial Intelligence, and Machine Learning. I enjoy working with Python, analyzing data, building machine learning models, and developing practical applications. I'm continuously learning and improving my skills in Python, SQL, Data Analytics, Machine Learning, and Generative AI.
+
 
 ## 🚀 What I'm Looking For
 
-- 💞I want to work with others on **data science** and **visualization** projects so I can use my skills and learn from the community.
+💞️ I'm interested in collaborating with developers and data enthusiasts on projects involving **Data Science, Machine Learning, Artificial Intelligence, and Generative AI**. I'm eager to explore new technologies, gain practical experience, share knowledge, and contribute to meaningful projects while growing my technical skills.
 
 ## 📬 How to Reach Me
 
