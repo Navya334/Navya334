@@ -22,9 +22,15 @@ Below are some projects I've worked on. Feel free to check them out and suggest 
 
 [🛡️Hate Speech Detection](https://github.com/Navya334/Harmful-Language-Detection.git) 
 
+A machine learning-based project that analyzes tweet data to classify text into **Hate Speech, Offensive Language, and Non-Hate Speech** using Python, NLP, NLTK, and TF-IDF techniques.
+
 [🩺 Smart Diagnosis of Stomach Diseases Using Machine Learning](https://stomach-disease-predictor-app-sxavzdehjmy3d3ag9tkwld.streamlit.app/)
 
 A machine learning-based healthcare project that predicts stomach diseases based on user-reported symptoms using **Python, Random Forest, and Scikit-learn**, along with a doctor recommendation feature to help users find suitable doctors for treatment.
+
+[🚀 Smart Customer Support AI](https://github.com/Navya334/Smart-Customer-Support---AI)  
+
+An AI-powered customer support chatbot developed using **Python, LangChain, and Google Gemini**, featuring multiple support categories and contextual conversations to provide quick and interactive customer assistance.
 
 <!---
 This is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
