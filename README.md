@@ -28,7 +28,7 @@ A machine learning-based project that analyzes tweet data to classify text into 
 
 A machine learning-based healthcare project that predicts stomach diseases based on user-reported symptoms using **Python, Random Forest, and Scikit-learn**, along with a doctor recommendation feature to help users find suitable doctors for treatment.
 
-[🚀 Smart Customer Support AI](https://github.com/Navya334/Smart-Customer-Support---AI)  
+[🚀 Smart Customer Support AI](https://smart-customer-support---ai-aigxfmgz7xapvck4byii7d.streamlit.app/)  
 
 An AI-powered customer support chatbot developed using **Python, LangChain, and Google Gemini**, featuring multiple support categories and contextual conversations to provide quick and interactive customer assistance.
 
