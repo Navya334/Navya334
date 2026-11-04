@@ -17,16 +17,10 @@ I really enjoy data science and analytics because I like finding useful informat
 
 I practice coding challenges on HackerRank using Python and SQL to improve my programming and problem-solving abilities.
 
-## 📊 Machine Learning, Python Projects
+## 📊 Projects
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 
 [🛡️Hate Speech Detection](https://github.com/Navya334/Harmful-Language-Detection.git) 
-
-A detailed exploration of tweets data visualized comprehensively using Python 
-
-[💬Spam(SMS) Detection](https://github.com/Navya334/Ham_Spam_Detection.git)
-
-An analytical project that dives deep into statistical analysis with Python programming.
 
 
 
