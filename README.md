@@ -20,7 +20,7 @@ I practice coding challenges on HackerRank using Python and SQL to improve my pr
 ## 📊 Machine Learning, Python Projects
 Below are some projects I've worked on. Feel free to check them out and suggest improvements or ask questions!
 
-[🛡️Hate Speech Detection Using the Machine Learning](https://github.com/Navya334/Hate_Speech_Detection.git) 
+[🛡️Hate Speech Detection](https://github.com/Navya334/Harmful-Language-Detection.git) 
 
 A detailed exploration of tweets data visualized comprehensively using Python 
 
@@ -32,15 +32,7 @@ An analytical project that dives deep into statistical analysis with Python prog
 
 This project tells the youtube adview predictions To build a machine learning regression to predict youtube adview count basedon other youtube metrics.
 
-## Data Visualization
 
-[HR Analytical Dashboard](https://github.com/Navya334/HR-Dashboard)
-
-Created a Power BI HR Analytics Dashboard to track employee data and identify retention drivers, enabling HR teams to implement data-driven workforce strategies
-
-[Credit Exploratory Data Analysis using Machine Learning](https://github.com/Navya334/Credit_EDA_Project.git)
-
-Perform detailed analysis of credit data to uncover hidden patterns, relationships, and insights that can help in credit risk assessment using machine learning and python.
 
 <!---
 This is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
